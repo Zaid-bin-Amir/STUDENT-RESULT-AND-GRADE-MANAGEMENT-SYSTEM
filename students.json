@@ -1,0 +1,44 @@
+{
+    "101": {
+        "name": "Ali Khan",
+        "marks": {
+            "Math": 85,
+            "English": 78,
+            "Science": 92
+        }
+    },
+    "102": {
+        "name": "Sara Ahmed",
+        "marks": {
+            "Math": 99,
+            "English": 88,
+            "Science": 95
+        }
+    },
+    "103": {
+        "name": "Hamza",
+        "marks": {
+            "Math": 45,
+            "English": 60,
+            "Science": 52
+        }
+    },
+    "1O1": {
+        "name": "Ali Khan",
+        "marks": {
+            "Math": 85
+        }
+    },
+    "Ali Khan": {
+        "name": "ALI khan",
+        "marks": {
+            "Math": 80
+        }
+    },
+    "100": {
+        "name": "Ali Khan",
+        "marks": {
+            "English": 50
+        }
+    }
+}
